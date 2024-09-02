@@ -9,7 +9,7 @@
     <h1>Projeto de Monitoramento de Atendimentos</h1>
     <h2>Descrição</h2>
     <p>
-        Este projeto visa criar um sistema simples em Python para monitorar e registrar o tempo de resposta e resolução de problemas dos clientes da empresa fictícia evo1. O objetivo é ajudar a melhorar a eficiência do suporte ao cliente ao permitir que os atendentes acompanhem o tempo gasto em cada atendimento e identifiquem áreas para melhorias.
+        Este projeto visa criar um sistema simples em Python para monitorar e registrar o tempo de resposta e resolução de problemas dos clientes de uma empresa. O objetivo é ajudar a melhorar a eficiência do suporte ao cliente ao permitir que os atendentes acompanhem o tempo gasto em cada atendimento e identifiquem áreas para melhorias.
     </p>
 
    <h2>Funcionalidades</h2>
